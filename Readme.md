@@ -71,7 +71,7 @@ Your default browser will launch with the login or dashboard interface
 ### You're good to go!
 
 ### 🖼️ Interface Screenshots
-![](https://github.com/JaveriahFaheem/Criminal-Records-System/blob/main/login.png)
+![login](https://github.com/JaveriahFaheem/Criminal-Records-System/blob/main/login.png)
 
 ![](https://github.com/JaveriahFaheem/Criminal-Records-System/blob/main/insert_dashboard.png)
 
