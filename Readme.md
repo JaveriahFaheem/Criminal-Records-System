@@ -70,6 +70,11 @@ Your default browser will launch with the login or dashboard interface
 
 ### You're good to go!
 
+### Authors
+- Javeriah Faheem
+- Ayesha Areej
+- Sabreena Azhar
+
 ### 🖼️ Interface Screenshots
 ![login](https://github.com/JaveriahFaheem/Criminal-Records-System/blob/main/login.png)
 
